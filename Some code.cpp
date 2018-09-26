@@ -1,4 +1,5 @@
 int main(argc, argv)
 {
-	do stuff
+	int hi = 9;
+	return 0;
 }
